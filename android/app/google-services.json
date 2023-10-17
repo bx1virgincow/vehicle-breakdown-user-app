@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "580568024082",
+    "project_id": "on-road-vehicle-assistance-app",
+    "storage_bucket": "on-road-vehicle-assistance-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580568024082:android:b4e57292f74e1f162284cb",
+        "android_client_info": {
+          "package_name": "com.phishtech.adminapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580568024082-gj294rjfni9g093igi7m2b548oeob7mt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACArDhC0rSUbkNNuFKg3FMTm3u10kG3ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580568024082-gj294rjfni9g093igi7m2b548oeob7mt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "580568024082-ho1o9j594n0an7c64st5pfet5vn19077.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.phishtech.adminapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580568024082:android:c36f4e7bcbf693a32284cb",
+        "android_client_info": {
+          "package_name": "com.phishtech.onroadapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580568024082-gj294rjfni9g093igi7m2b548oeob7mt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACArDhC0rSUbkNNuFKg3FMTm3u10kG3ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580568024082-gj294rjfni9g093igi7m2b548oeob7mt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "580568024082-ho1o9j594n0an7c64st5pfet5vn19077.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.phishtech.adminapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
