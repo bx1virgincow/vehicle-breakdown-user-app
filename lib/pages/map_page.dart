@@ -17,7 +17,7 @@ class MapPage extends StatefulWidget {
 
 class _MapPageState extends State<MapPage> {
   //declaration of api key
-  String API_KEY = 'AIzaSyB6MiAOm0-aUMg8D0YaQwDAyFHYlstl7cE';
+  String API_KEY = '';
   //scaffold key
   final GlobalKey<ScaffoldState> scaffoldKey = GlobalKey<ScaffoldState>();
   //google map controlle
